@@ -33,8 +33,7 @@ img{
 }
 
 .conteiner{
-    
-    width:calc((100% / 3) - 1rem);
+    width:calc((100% / 3) - 2rem);
     float: left;
     background-color: #0f0e17;
     box-shadow: .5rem .5rem 1rem #cdcdcc ;
@@ -45,10 +44,10 @@ img{
 }
 
 .middle{
-    margin: 0 1rem;
+    margin: 0 2rem;
 }
 
-p{
+div p{
     color: white;
     margin: 0.7rem 0;
 }
