@@ -37,9 +37,10 @@ img{
     width:calc((100% / 3) - 1rem);
     float: left;
     background-color: #0f0e17;
+    box-shadow: .5rem .5rem 1rem #cdcdcc ;
 }
 
-#first-section{
+.section{
     margin-top: 3rem;
 }
 
